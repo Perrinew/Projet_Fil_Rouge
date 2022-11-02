@@ -1,0 +1,95 @@
+body{
+    width: 100%;
+    height: auto;
+    background-image: url(/photo/Fondsite2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: aliceblue;
+    
+}
+.Barre_de_recherche{
+    text-align:center;
+}
+
+
+.Type{
+    text-align: start;
+    width: 100%;
+}
+
+table, th, td{
+    margin: auto;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+
+
+
+.cadre{
+    width: 700px;
+    margin: auto;
+    background-color: aliceblue;
+    opacity: 1;
+}
+
+ 
+
+.titre{
+    background-color: aliceblue;
+    opacity: 0.7;
+    
+}
+
+
+img{
+    width: 450px;
+    height: 350px;
+    
+}
+
+.card-body{
+    text-align: center;
+    background-color: aliceblue;
+    flex-direction: row;
+}
+
+.card_alignement{
+margin: auto;
+opacity: 1;
+}
+
+.card-img-top{
+    opacity: 1;
+}
+
+.cadre2{
+    width: auto;
+    height: auto;
+    
+}
+
+.cadre3{
+    width: auto;
+    height: auto;
+    
+}
+
+label{
+    font-size: x-large;
+    src:url(assets/fonts/Roboto/Roboto-Bold.ttf);
+    font-family: 'Roboto-Bold', sans-serif;
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+input{
+    width: 80%;
+}
